@@ -11,14 +11,13 @@
 Форк репозитория 
 ![screenshots](img/0.png)
 
-
 Установка Git-Bash. Настройка и клонирование репозитория
 ![screenshots](img/1.png) 
 ![screenshots](img/2.png)
 
 добавлен файл fileLR6 через сайт GitHub
-
-![screenshots](img/7.png)
+![screenshots](img/3.1.png)
+![screenshots](img/3.2.png)
 
 Получена история операций для ветки *master* 
 ![screenshots](img/5.0.png)
@@ -57,3 +56,16 @@
 
 Создание ветки для отчета
 ![screenshots](img/15.png)
+
+История операций
+![screenshots](img/16.png)
+![screenshots](img/17.png)
+
+История операций в упрощенном варианте
+![screenshots](img/18.png)
+
+С файлом README.md работал в pycharm
+![screenshots](img/19.png)
+
+## Вывод
+Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием

@@ -1,0 +1,15 @@
+f9ad39e 2023-11-14 Michael Aleksenko unfinished README.md
+21ef6dc 2023-11-14 Michael Aleksenko updated screenshots
+ac10644 2023-11-14 Michael Aleksenko added screenshots for report
+380a0f1 2023-11-14 Michael Aleksenko Revert "change4 of lab6file"
+48bae12 2023-11-14 Michael Aleksenko change4 of lab6file
+44de215 2023-11-14 Michael Aleksenko change3 of lab6file
+1e58706 2023-11-14 Michael Aleksenko change2 of lab6file
+4ec614f 2023-11-14 Michael Aleksenko change1 of lab6file
+3a490a6 2023-11-14 Michael Aleksenko deleted branch1
+2c90d49 2023-11-14 Michael Aleksenko resolved branch1 conflict
+22b8771 2023-11-14 snorlaxix Create lab6File
+921f53b 2020-11-21 Kurtyanik Обновление информации
+0f9f50d 2020-11-21 Kurtyanik Заполнил файл
+c08a654 2020-11-21 Kurtyanik Файл создан пустым
+3c6e913 2020-11-21 Kurtyanik Initial commit
